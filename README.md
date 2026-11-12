@@ -1,5 +1,20 @@
 # 💾 Banking Operations Analysis
 
+
+![Banking Operations Analysis](Images/Banking_Operations_Analysis.png)
+
+
+<p align="center">
+  <img src="Images/Banking%20Operations%20Analysis.png"
+       alt="Banking Operations Analysis"
+       width="600">
+</p>
+
+
+![Banking Operations Analysis](Images/Banking%20Operations%20Analysis.png)
+
+
+
 <p align="center">
   <img width="600" alt="Banking Operations Analysis" src="https://github.com/user-attachments/assets/aed7a8be-95c0-4185-9293-d723cbe23461" />
 </p>
