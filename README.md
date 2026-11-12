@@ -1,5 +1,10 @@
 # 💾 Banking Operations Analysis
 
+<!-- THIS IS A COMMENT: This is for the URL option. -->
+<p align="center">
+  <img width="600" alt="Banking Operations Analysis" src="https://github.com/user-attachments/assets/aed7a8be-95c0-4185-9293-d723cbe23461" />
+</p>
+
 
 ![Banking Operations Analysis](Images/Banking_Operations_Analysis.png)
 
